@@ -1,7 +1,10 @@
 # BayesianStatistics2022
-The materials for the winter semester block course
+The materials for the winter semester block course.
+(The Tureček part)
 
-Download everything as a zip file. I will send the large sampled models on a flash drive or via email later. They were too big for github.
+Download everything as a zip file. (Click green "code" button in the top right corner of the repository frontopage and click "download as zip")
+
+I will send the large sampled models on a flash drive or via email later. They were too big for github.
 
 **Useful playlists with extra material:**
 
